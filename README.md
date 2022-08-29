@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saiful Islam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **React**
 
