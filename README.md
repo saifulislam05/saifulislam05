@@ -1,34 +1,163 @@
-<h1 align="center">Hi 👋, I'm Saiful Islam</h1>
-<h3 align="center">FullStack Developer | Node.js, React & Redux Specialist</h3>
-
+```{=html}
+<h1 align="center">
+```
+Assalāmu 'Alaikum 👋 I'm Saiful Islam
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+Full Stack Developer • JavaScript Specialist • Building Scalable Web
+Applications
+```{=html}
+</h3>
+```
+```{=html}
 <p align="center">
-  I'm a passionate and results-driven FullStack Developer with a focus on building efficient, scalable, and modern web applications. With strong expertise in Node.js, React, Redux, and Tailwind CSS, I aim to create seamless user experiences and robust backend solutions.
+```
+`<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;JavaScript+Specialist;Node.js+%7C+React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies&center=true&width=500&height=45">`{=html}
+```{=html}
 </p>
+```
 
-- 🔭 I’m currently working on projects involving **Node.js, React, and Redux**.
-- 🌱 Continuously improving my skills in **Cloud Computing** and **DevOps**.
-- 💬 Feel free to ask me about **React, Node.js, JavaScript, and FullStack Development**.
-- 📫 Reach out to me via **saiful.bijulia@gmail.com**.
-- ⚡ Fun fact: I love solving complex problems and enjoy working on the frontend as much as the backend.
+------------------------------------------------------------------------
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/developersaiful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/saifulislam7586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/saifulislam.smart05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+# 🚀 About Me
+
+💻 Passionate **Full Stack Developer** focused on building **modern,
+scalable, and high‑performance web applications**.
+
+I enjoy designing **clean architectures**, writing **maintainable
+code**, and building products that provide **excellent user
+experience**.
+
+-   🔭 Currently building **something amazing**
+-   ⚡ Specialized in **JavaScript ecosystem**
+-   🧠 Interested in **System Design, Cloud Infrastructure & DevOps**
+-   🎨 Love building **beautiful UI with great UX**
+-   🤝 Open to **collaboration and impactful projects**
+
+------------------------------------------------------------------------
+
+# 🛠 Tech Stack
+
+## Frontend Development
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,js" />`{=html}
+```{=html}
 </p>
+```
+## Backend Development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express" />`{=html}
+```{=html}
 </p>
+```
+## Tools & Technologies
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifulislam05&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm" />`{=html}
+```{=html}
+</p>
+```
 
-<p align="center">⚡ <em>I am open to collaborating on interesting projects and contributing to the developer community!</em> ⚡</p>
+------------------------------------------------------------------------
+
+# 📊 GitHub Analytics
+
+```{=html}
+<p align="center">
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=saifulislam05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />`{=html}
+
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislam05&layout=compact&theme=tokyonight&hide_border=true" />`{=html}
+
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 🔥 GitHub Contribution Streak
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=saifulislam05&theme=tokyonight&hide_border=true">`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 🏆 GitHub Achievements
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=saifulislam05&theme=tokyonight&no-frame=true&row=1&column=6">`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 📈 Contribution Graph
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifulislam05&theme=tokyo-night&hide_border=true">`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 🌐 Connect With Me
+
+```{=html}
+<p align="center">
+```
+`<a href="https://linkedin.com/in/developersaiful">`{=html}
+`<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>`{=html}
+`</a>`{=html}
+
+`<a href="https://fb.com/saifulislam7586">`{=html}
+`<img src="https://skillicons.dev/icons?i=facebook" height="45"/>`{=html}
+`</a>`{=html}
+
+`<a href="https://instagram.com/saifulislam.smart05">`{=html}
+`<img src="https://skillicons.dev/icons?i=instagram" height="45"/>`{=html}
+`</a>`{=html}
+
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 📫 Contact
+
+📧 **Email:** saiful.bijulia@gmail.com
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+⭐ If you like my work, consider following me or collaborating on
+interesting projects.
+
+```{=html}
+</p>
+```
