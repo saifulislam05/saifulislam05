@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Node.js+%7C+React+Engineer;Building+Scalable+Web+Applications;Clean+Architecture+Enthusiast;Cloud+%26+DevOps+Learner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Node.js+%7C+React+Engineer;Building+Scalable+Web+Applications;Clean+Architecture+Enthusiast;Cloud+%26+DevOps+Learner;Always+Building+Something+Amazing"/>
 </p>
 
 <p align="center">
@@ -26,49 +26,63 @@ I enjoy building **fast, scalable and maintainable applications** with **great U
 
 # ⚡ Tech Ecosystem
 
-## 🎨 Frontend
+## 🎨 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,js,ts&perline=8"/>
-</p>
-
-## ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=6"/>
-</p>
-
-## 🗄 Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=6"/>
-</p>
-
-## ☁️ Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,githubactions&perline=6"/>
-</p>
-
-## 🧰 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,js,ts,vite"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## ⚙️ Backend Development
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=saifulislam05&repo=repo1&theme=radical&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=saifulislam05&repo=repo2&theme=radical&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql"/>
 </p>
 
+---
+
+## 🗄 Databases
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=saifulislam05&repo=repo3&theme=radical&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=saifulislam05&repo=repo4&theme=radical&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
 </p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,githubactions"/>
+</p>
+
+---
+
+## 🔌 API & Backend Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postman,graphql"/>
+</p>
+
+---
+
+## 🧰 Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn"/>
+</p>
+
+---
+
+## 🧠 Architecture & System Design
+
+- REST API Design
+- Microservice Architecture
+- Scalable Backend Systems
+- Performance Optimization
+- Clean Code Principles
+
+
 
 ---
 
@@ -89,6 +103,13 @@ I enjoy building **fast, scalable and maintainable applications** with **great U
 
 ---
 
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saifulislam05&theme=radical&no-frame=true&row=1&column=7"/>
+</p>
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
@@ -97,26 +118,22 @@ I enjoy building **fast, scalable and maintainable applications** with **great U
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saifulislam05&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://linkedin.com/in/developersaiful">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-<a href="https://fb.com/saifulislam7586">
-<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+
+<a href="https://www.facebook.com/saifulislam7586">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/120px-2023_Facebook_icon.svg.png" height="45"/>
 </a>
-<a href="https://instagram.com/saifulislam.smart05">
+
+<a href="https://www.instagram.com/developersaiful05/">
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
+
 </p>
 
 ---
