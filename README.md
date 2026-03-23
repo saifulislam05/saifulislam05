@@ -86,14 +86,6 @@ I enjoy building **fast, scalable and maintainable applications** with **great U
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saifulislam05&show_icons=true&theme=radical&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislam05&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
 
 # 🔥 Contribution Streak
 
@@ -103,20 +95,6 @@ I enjoy building **fast, scalable and maintainable applications** with **great U
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saifulislam05&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifulislam05&theme=react-dark&hide_border=true"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
